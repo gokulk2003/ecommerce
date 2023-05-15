@@ -1,0 +1,28 @@
+.carousel-caption #img1 {
+  height: 200px;
+  filter: brightness(0%);
+}
+
+.carousel-caption h1 {
+  color: aliceblue;
+  background-color: black;
+  padding: 30px;
+  filter: opacity(75%);
+  font-size: 80px;
+  margin-bottom: 10%;
+  width: 100%;
+  font-family: cursive;
+}
+
+.carousel-caption p {
+  font-size: 25px;
+  font-weight: bold;
+  padding: 30px;
+  color: aliceblue;
+  background-color: rgb(0, 0, 0);
+  filter: opacity(60%);
+}
+
+.carousel {
+  padding-bottom: 55px;
+}

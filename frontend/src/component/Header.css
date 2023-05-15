@@ -1,0 +1,11 @@
+.title-logo {
+  font-size: 35px;
+  font-style: italic;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding-left: 15px;
+  text-decoration: none;
+}
+
+.title-logo img :hover {
+  text-decoration: none;
+}
